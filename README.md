@@ -47,7 +47,7 @@ So that I have quick access to the books.
 ## Demo
 
 This app allows users to search books by name, view it on the google page and save it for future reference: 
-<img src="https://recordit.co/7lhiyLWmwI"  width="900" height="500">
+<img src="http://g.recordit.co/7lhiyLWmwI.gif"  width="900" height="500">
 
 <br>
 
